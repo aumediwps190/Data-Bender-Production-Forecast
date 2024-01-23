@@ -1,0 +1,134 @@
+Part_No,Description,Category,Vendor No,Available,On Hand,Current Cost,Volume (inch^3),Length (UDF),Width (UDF),Height (UDF),Weight (UDF),Product Code,Pallet Quantity (Incoming Max) (UDF),Pallet Length (inches) (UDF),Pallet Width (inches) (UDF)
+111MedPol009R,Med. Pile Polycarbonate 9Mat 40x40,Polycarbonate Chair Mat,MANU123,0,0,39.597,840.5,41,41,0.5,6,MATS,100,62,50
+111MedPol9RBL,Med.Pile Poly 9Mat 40x40 Blue,Polycarbonate Chair Mat,MANU123,13,13,36.6812,840.5,41,41,0.5,6,MATS,100,62,50
+111MedPol09RC,Med.Pile Poly 9Mat 40x40 Cerise,Polycarbonate Chair Mat,MANU123,0,0,38.62101,840.5,41,41,0.5,6,MATS,100,62,50
+111MedPol23LR,Med. Pile Polycarbonate 48x53 w/lip,Polycarbonate Chair Mat,MANU123,3,3,51.4158,1347.5,47,12,12,11,MATS,100,62,48
+111AllPol23ER,All Carpet Polycarbonate 60'x60',Polycarbonate Chair Mat,MANU123,2,2,88.641,14400,60,14,14,17,MATS,15,62,50
+111MedPol23ER,Med Pile Polycarbonate 48'x60' Rect,Polycarbonate Chair Mat,MANU123,100,103,47.5968,1550,47,12,12,14,MATS,100,62,50
+111LowPVC25EV,Low Pile PVC 48 x 60 Rect.,PVC Chair Mat,MANU123,0,0,25.6208,1550,47,12,12,16,MATS,100,62,50
+111DeePol27ER,Deep Pile Polycarbonate 48''x60'' Rec,Polycarbonate Chair Mat,MANU123,4,4,74.571,1550,47,12,12,16,MATS,24,62,50
+111DeePol27LR,"Deep Pile Polycarbonate 48""x60"" w/lip",Polycarbonate Chair Mat,MANU123,6,6,70.70447,1550,47,12,12,15,MATS,24,62,50
+112MedPol23ER,Med. Pile Polycarbonate 48'x79' Rec,Polycarbonate Chair Mat,MANU123,4,4,82.7048,1437.75,48,12,12,19,MATS,100,62,50
+113AllPol23ER,All Carpet Polycarbonate 48'x118',Polycarbonate Chair Mat,MANU123,0,0,103.7944,11250,50,15,15,25,MATS,12,62,50
+113LowPVC25LV,Low Pile PVC 45 x 53 w/lip,PVC Chair Mat,MANU123,0,0,21.9492,1347.5,47,12,12,11.7,MATS,100,62,50
+113BlPVCLLBV," Black PVC Chair Mat for Low Pile Carpets 1/4"" or less, Lipped",PVC Chair Mat,MANU123,1,1,23.3964,925,36,6,6,7,MATS,100,62,50
+114BlPVCLLBV," Black PVC Chair Mat for Low Pile Carpets 1/4"" or less, Lipped",PVC Chair Mat,MANU123,5,5,31.49,1372,47,8,8,11,MATS,100,62,50
+114BlPVCLEBV," Black PVC Chair Mat for Low Pile Carpets 1/4"" or less, Rectangular",PVC Chair Mat,MANU123,17,17,36.9438,1550,47,8,8,13,MATS,100,62,50
+118MedPol23ER,Med Pile Polycarbonate 47'x35' Rect,Polycarbonate Chair Mat,MANU123,52,52,27.98336,925,36,9,9,9.8,MATS,100,62,50
+118DeePol27ER,Deep Pile Polycarbonate 47x35 Rect.,Polycarbonate Chair Mat,MANU123,4,5,44.56748,925,36,9,9,9.8,MATS,100,62,50
+119LowPVC25EV,Low Pile PVC 36 x 48 Rectangle,PVC Chair Mat,MANU123,1,1,27.872,925,36,9,9,8,MATS,100,62,50
+119LowPVC25LV,Low Pile PVC 36 x 48 w/lip,PVC Chair Mat,MANU123,7,13,14.69654,925,36,9,9,8,MATS,100,62,50
+119MedPol23SR,Med Pile Polycarbonate 39x49Contour,Polycarbonate Chair Mat,MANU123,1,1,43.9386,925,50,37,0.5,9,MATS,100,62,50
+121HFPol009R,HF Polycarbonate 9Mat 40'x40',Polycarbonate Chair Mat,MANU123,1,1,28.71,840.5,41,41,0.5,5,MATS,100,62,50
+121HFPol9RBL,HF Polycarbonate 9Mat 40x40 Blue,Polycarbonate Chair Mat,MANU123,0,0,25.9806,840.5,41,41,0.5,5,MATS,100,62,50
+121HFPol09RC,HF Polycarbonate 9Mat 40x40 Cherry,Polycarbonate Chair Mat,MANU123,0,0,28.46206,840.5,41,41,0.5,5,MATS,100,62,50
+121HFPol0ERA,HF Polycarbonate 48x53 Rect AntiSlp,Polycarbonate Chair Mat,MANU123,3,3,45.8568,1372,48,8,8,11,MATS,100,62,50
+121HFPol19ER,HF Polycarbonate 60x60,Polycarbonate Chair Mat,MANU123,9,10,66.9866,14400,60,14,14,13,MATS,15,62,50
+121HarPol19ER,Hard Floor Polycarbonate 60x79 Rect,Polycarbonate Chair Mat,MANU123,6,6,81.3916,13456,60,14,14,17,MATS,15,62,50
+121HarPVC20EV,Hard Floor PVC 46' x 60' Rectangle,PVC Chair Mat,MANU123,75,76,17.00645,1550,46,6,6,13,MATS,100,62,50
+121HarPVC20LV,Hard Floor PVC 46' x 60' w/lip,PVC Chair Mat,MANU123,0,0,23.8506,1550,62,50,0.5,12.5,MATS,100,62,50
+122PolPol19ER,Polycarbonate 48'x79' HF,Polycarbonate Chair Mat,MANU123,3,3,55.1276,1437.75,47,12,12,17,MATS,15,62,50
+123HarPol19ER,Hard Floor Polycarbonate 48x118 Rec,Polycarbonate Chair Mat,MANU123,2,2,91.79,7056,49,12,12,18,MATS,15,52,48
+123HarPVC20LV,Hard Floor PVC 45' x 53' w/lip,PVC Chair Mat,MANU123,0,1,14.37295,1372,46,6,6,10,MATS,100,62,50
+123TeTem48EG," Tempered Glass Chairmat 36"" x 48""",Tempered Glass Chair Mat,MANU123,10,10,91.6962,3868.8,52,40,1.86,40,MATS,25,62,50
+123BlPVCHLBV," Black PVC Chair Mat for Hard Floor Surfaces, Lipped",PVC Chair Mat,MANU123,122,122,13.55948,925,36,4,4,7,MATS,100,62,50
+124StuPVC0PBV,"Student Chairmat 40x40, HF Blue",PVC Chair Mat,MANU123,0,0,22.11,840.5,41,41,0.5,6,MATS,100,62,50
+124StuPVC0PRV,"Student Chairmat 40x40, HF Red",PVC Chair Mat,MANU123,0,0,22.11,840.5,41,41,0.5,6,MATS,100,62,50
+124TeTem53EG," Tempered Glass Chairmat 40"" x 53""",Tempered Glass Chair Mat,MANU123,4,4,110.7912,4746.72,58,44,1.86,44,MATS,25,62,50
+124BlPVCHLBV," Black PVC Chair Mat for Hard Floor Surfaces, Lipped",PVC Chair Mat,MANU123,5,5,32.5352,1372,47,8,8,10,MATS,100,60,50
+124BlPVCHEBV," Black PVC Chair Mat for Hard Floor Surfaces, Rectangular",PVC Chair Mat,MANU123,129,129,23.1696,1550,47,6,6,13,MATS,100,62,50
+128HarPol19ER,Hard Floor Polycarbonate 47x35 Rect,Polycarbonate Chair Mat,MANU123,9,12,30.0696,925,36,6,6,7,MATS,100,62,50
+128HarPol0ERA,Hard Floor Anti Slip Poly 47x35 Rec,Polycarbonate Chair Mat,MANU123,11,12,30.34813,925,50,37,0.5,7,MATS,100,62,50
+129HaPVC17EV," Hard Floor PVC 36""x48""",PVC Chair Mat,MANU123,0,0,11.68,925,,,,,MATS,0,0,0
+129HarPVC20LV,Hard Floor PVC 36' x 48' w/lip,PVC Chair Mat,MANU123,250,252,12.90777,925,36,4,4,7,MATS,100,62,50
+129HPVC25EV,"  Hard Floor PVC 36""x48""",PVC Chair Mat,MANU123,55,55,11.80827,925,36,4,4,7,MATS,100,62,50
+311AntPVC26EV,Anti Static Chairmat 46x60 Rect.,PVC Chair Mat,MANU123,0,0,40.95946,1550,47,12,12,17.5,MATS,100,62,50
+313AntPVC26LV,Anti Static Chairmat 45'x53' w/lip,PVC Chair Mat,MANU123,0,0,33.7546,1372,47,12,12,14,MATS,100,62,50
+319AntPVC26LV,Anti Static Chairmat 36'x48' w/lip,PVC Chair Mat,MANU123,4,4,16.30067,925,36,8,8,10,MATS,100,62,50
+ECORecRec48EP,Recycled 36'x48' Low Pile Rectangle,Recycled Chair Mat,MANU123,270,270,24.60556,925,36,9,9,8,MATS,100,62,50
+ECORecRec48LP,Recycled 36'x48' Low Pile w/lip,Recycled Chair Mat,MANU123,9,9,29.95915,925,50,37,0.5,7,MATS,100,62,50
+ECORecRec51EP,Recycled 48'x51' Low Pile Rectangle,Recycled Chair Mat,MANU123,142,142,36.39363,1372,47,12,12,10,MATS,100,62,50
+ECORecRec51LP,Recycled 48'x51' Low Pile w/lip,Recycled Chair Mat,MANU123,9,9,36.39952,1372,48,12,12,10,MATS,100,62,50
+ECORecRec60EP,Recycled 48'x60' Low Pile Rectangle,Recycled Chair Mat,MANU123,220,220,40.17655,1550,47,12,12,14,MATS,100,62,50
+ECOEvRec48EP, Evolutionmat HF 36'x48',Recycled Chair Mat,MANU123,55,59,18.8538,925,50,37,0.5,7,MATS,100,62,50
+ECOEvRec51EP, Evolutionmat HF 48'x51',Recycled Chair Mat,MANU123,98,98,35.5368,1372,47,8,8,7.2,MATS,100,62,50
+ECOEvRec60EP, Evolutionmat HF 48'x60',Recycled Chair Mat,MANU123,0,0,31.89638,1550,47,12,12,12,MATS,100,62,50
+FBDBlDes36BV," Black Phthalate-Free PVC Desk Pad 20""x36""",Desk Pad,MANU123,65,90,7.7988,22,36,20,0.03,1.3,DESK,1000,62,50
+FBDCrDes36CV," Crystal Clear Phthalate-Free PVC Desk Pad 20""x36""",Desk Pad,MANU123,0,0,6.90093,22,36,20,0.03,1.3,DESK,1000,62,50
+FBDDesDes36RA,Desk Pad 20' x 36' Poly Anti-slip,Desk Pad,MANU123,0,0,14.0164,22,36,20,0.03,1.3,DESK,1000,62,50
+FBDAnDes036V, Anti-Static Vinyl Desk Pads 20x36,Desk Pad,MANU123,52,52,8.3884,22,36,20,0.03,1.4,DESK,1000,62,50
+FBUMatAnt436B,Mat Anti-Fatigue 24'x36' BLK,Anti-Fatigue Mat,MANU123,0,0,20.98359,1813,37,7,7,18,MATS,50,62,50
+FBUMatAnt648B,"Mat Anti-Fatigue 36""x48"" BLK",Anti-Fatigue Mat,MANU123,0,0,26.59175,2432,38,8,8,8,MATS,40,62,50
+FBUMatAnt660B,Mat Anti-Fatigue 36'x60' BLK,Anti-Fatigue Mat,MANU123,0,0,27.5082,1813,37,7,7,27,MATS,35,62,50
+FCAPoAntA11S, Poly Chrmt Crpt w/Syst5000,Anti-Fatigue Mat,MANU123,0,0,128.372,13689,39,27,13,20,MATS,100,48,40
+FCAPoAntA12S, Poly Chrmt HF w/System5000,Anti-Fatigue Mat,MANU123,1,1,88.1408,13689,39,27,13,20,MATS,100,48,40
+FCAAFSAnt2PBK,AFS-TEX Active Platform in Midnight Black 20'X32',Anti-Fatigue Mat,MANU123,2,2,39.8112,2278.5,31,21,3.5,4.95,MATS,100,62,50
+FCAAnAnt24BK, Antifatigue Mat 16'x24' Black,Anti-Fatigue Mat,MANU123,26,27,23.1016,384,24,16,1,2.6,MATS,100,62,50
+FCAAnAnt24GY, Antifatigue Mat 16'x24' Grey,Anti-Fatigue Mat,MANU123,6,6,23.1016,384,24,16,1,2.6,MATS,100,62,50
+FCAAntAnt4XBK,Antifatigue Mat 2 - 16' x 24' Black,Anti-Fatigue Mat,MANU123,8,11,21.4266,384,24,16,1,2.6,MATS,100,62,50
+FCAAntAnt4XGY,Antifatigue Mat 2 - 16' x 24' Grey,Anti-Fatigue Mat,MANU123,7,8,21.4266,384,24,16,1,2.6,MATS,100,48,40
+FCAAnAnt32BK, Antifatigue Mat 20'x32' Black,Anti-Fatigue Mat,MANU123,32,32,29.9356,672,32,21,1,4,MATS,100,62,50
+FCAAnAnt32GY, Antifatigue Mat 20'x32' Grey,Anti-Fatigue Mat,MANU123,3,3,29.9356,672,32,21,1,4,MATS,100,62,50
+FCAAntAnt2XBK,Antifatigue Mat 2 - 20' x 32'  Black,Anti-Fatigue Mat,MANU123,6,7,28.7832,672,32,21,1,4,MATS,100,62,50
+FCAAntAnt2XGY,Antifatigue Mat 2 - 20' x 32'  Grey,Anti-Fatigue Mat,MANU123,2,2,26.8032,672,32,21,1,4,MATS,100,62,50
+FCAAnAntXVBK," Antifatigue Mat 6 - 23"" x 67"" Midnight Black",Anti-Fatigue Mat,MANU123,2,2,73.5258,3456,24,12,12,8,MATS,100,62,50
+FCAAntAnt9XBM,Antifatigue Mat 3 - 20' x 39'  Black,Anti-Fatigue Mat,MANU123,4,4,33.4196,1050,40,21,1.25,4.95,MATS,100,62,50
+FCASyAnt35BK, System 5000 26'x36' Black,Anti-Fatigue Mat,MANU123,0,0,45.056,2463.75,36.5,27,2.43,7,MATS,100,62,50
+FCASyAnt5XBK, System 5000 26'x36' Black,Anti-Fatigue Mat,MANU123,0,0,47.1255,2394.765,36.5,27,2.43,5,MATS,100,62,50
+FCAAntAnt2535,"Antifatigue Mat 5 - 26"" x 36"" Black",Anti-Fatigue Mat,MANU123,8,8,47.12568,2394.765,36.5,27,2.43,7,MATS,100,62,50
+FCDTeDes924G," Tempered Glass Mat Tempered Glass Desk Pad 19""x24""",Desk Pad,MANU123,9,14,22.9274,1021.02,26,21,1.87,8,DESK,200,62,50
+FCDTeDes036G," Tempered Glass Mat Tempered Glass Desk Pad 20""x36""",Desk Pad,MANU123,5,11,33.5402,1563.32,38,22,1.87,10,DESK,100,62,50
+FCVFaTem418A, Fabric Board Blue 18'x24',Tempered Glass Whiteboard,MANU123,-1,0,12.864,468,26,18,1,2.5,PRES,100,62,50
+FCVFaTem624A, Fabric Board Blue 24'x36',Tempered Glass Whiteboard,MANU123,13,13,25.862,948,39.5,24,1,5,PRES,100,62,50
+FCVFaTem836A, Fabric Board Blue 36'x48',Tempered Glass Whiteboard,MANU123,6,6,44.6354,1908,53,36,1,10.3,PRES,50,62,50
+FCVTeTem14BG, Tempered Glass 14X14 GLASS DOT GRID BOARD BLACK,Tempered Glass Whiteboard,MANU123,1,1,19.4836,629,18.7,18.7,1.8,5,PRES,100,62,50
+FCVTeTem14TP, Tempered Glass 14X14 GLASS PLANNER BOARD TEAL,Tempered Glass Whiteboard,MANU123,2,2,19.4836,629,18.7,18.7,1.8,5,PRES,100,62,50
+FCVTeTem14VP, Tempered Glass 14X14 GLASS PLANNER BOARD VIOLET,Tempered Glass Whiteboard,MANU123,1,1,29.653,629,18.7,18.7,1.8,5,PRES,100,62,50
+FCVTeTem14WG, Tempered Glass 14X14 GLASS DOT GRID BOARD WHITE,Tempered Glass Whiteboard,MANU123,0,0,18.7176,629,18.7,18.7,1.8,5,PRES,100,62,50
+FCVTeTem14WP, Tempered Glass 14X14 GLASS PLANNER BOARD WHITE,Tempered Glass Whiteboard,MANU123,6,6,17.4334,629,18.7,18.7,1.8,5,PRES,100,62,50
+FCVTeTem23BG, Tempered Glass 17X23 GLASS DOT GRID BOARD BLACK,Tempered Glass Whiteboard,MANU123,4,4,33.3124,1204,28,21.5,2,10,PRES,50,62,50
+FCVTeTem23TP, Tempered Glass 17X23 GLASS PLANNER BOARD TEAL,Tempered Glass Whiteboard,MANU123,4,4,33.59827,1204,28,21.5,2,10,PRES,50,62,50
+FCVTeTem23VP, Tempered Glass 17X23 GLASS PLANNER BOARD VIOLET,Tempered Glass Whiteboard,MANU123,10,10,30.5654,1204,28,21.5,2,10,PRES,50,62,50
+FCVTeTem23WG, Tempered Glass 17X23 GLASS DOT GRID BOARD WHITE,Tempered Glass Whiteboard,MANU123,1,1,34.17,1204,28,21.5,2,10,PRES,50,62,50
+FCVTeTem23WP, Tempered Glass 17X23 GLASS PLANNER BOARD WHITE,Tempered Glass Whiteboard,MANU123,38,38,30.5654,1204,28,21.5,2,10,PRES,50,62,50
+FCVLaSte624A, Lacq.Steel Whiteboard 24x36,Steel Whiteboard,MANU123,231,235,30.13325,1440,40,24,1.5,7,PRES,100,62,50
+FCVLaSte836A, Lacq.Steel Whiteboard 36x48,Steel Whiteboard,MANU123,144,147,50.43745,1908,53,36,1,12.8,PRES,50,62,50
+FCVLaSte148A, Lacq.Steel Whiteboard 48x71,Steel Whiteboard,MANU123,35,35,90.3203,3750,77,48,1,26.5,PRES,50,62,50
+FCVPoPor624A, Porcelain Whiteboard 24'x36',Porcelain Whiteboard,MANU123,110,110,53.69137,960,40,24,1,8,PRES,100,62,50
+FCVPoPor836A, Porcelain Whiteboard 36'x48',Porcelain Whiteboard,MANU123,8,12,96.9758,1908,53,36,1,16,PRES,50,62,50
+FCVPoPor148A, Porcelain Whiteboard 48'x71',Porcelain Whiteboard,MANU123,2,2,177.081,3750,77,48,1,31,PRES,50,62,50
+FDCAdvEnt36CH,Advantage Wiper Mat 24x36 Charcoal,Entrance Mat,MANU123,3,3,15.5574,592,37,4,4,3,MATS,100,62,50
+FDCAdvEnt60CH,Advantage Wiper Mat 36x60 Charcoal,Entrance Mat,MANU123,3,3,29.5068,592,37,4,4,8,MATS,75,62,50
+FDCAdvEnt72CH,Advantage Wipe Mat 48x72 Charcoal,Entrance Mat,MANU123,4,4,42.76729,3136,49,8,8,12,MATS,50,62,50
+FOCOcAnt432B, Octomat Scraper 24x32 BLK,Anti-Fatigue Mat,MANU123,0,0,14.8336,2368,37,8,8,9.8,MATS,100,62,50
+FOCOcAnt248B, Octomat Scraper 32x48 BLK,Anti-Fatigue Mat,MANU123,0,0,21.5874,4000,40,10,10,19,MATS,100,62,50
+FPD17Des722P, 17'x22'Deskpad 100% Recycled,Desk Pad,MANU123,0,0,6.1238,35,22,17,0.03,0.75,DESK,1200,62,50
+FPDAntDes22RA,Anti-slip Polycarbonate Desk Pad 17' x 22',Desk Pad,MANU123,0,29,6.2176,11.5,22,17,0.03,0.75,DESK,1200,62,50
+FPDBlDes24BV," Black Phthalate-Free PVC Desk Pad 19""x24""",Desk Pad,MANU123,78,107,4.8642,238.875,24.5,19.5,0.5,0.5,DESK,1200,62,50
+FPDCrDes24CV," Crystal Clear Phthalate-Free PVC Desk Pad 19""x24""",Desk Pad,MANU123,-4,0,4.5639,38,24,19,0.03,0.85,DESK,1200,62,50
+FPD19Des924P, 19'x24' Desk pad 100% Recycled,Desk Pad,MANU123,-247,-11,4.69,38,24,19,0.03,0.85,DESK,1200,62,50
+FPDAntDes24RA,Anti-slip Polycarbonate Desk Pad 19' x 24',Desk Pad,MANU123,109,109,7.13207,38,24,19,0.03,0.85,DESK,1200,62,50
+FPDBlDes36BV," Black Phthalate-Free PVC Desk Pad 20""x36""",Desk Pad,MANU123,0,0,4.7117,22,36,20,0.03,1.3,DESK,1000,62,50
+FPDCrDes36CV," Crystal Clear Phthalate-Free PVC Desk Pad 20""x36""",Desk Pad,MANU123,0,0,4.11075,22,36,20,0.03,1.3,DESK,1000,62,50
+FPD20Des036P, 20'x36'Deskpad 100% Recycled,Desk Pad,MANU123,0,0,8.911,22,36,20,0.03,1.3,DESK,1000,62,50
+FPDAnDes84RA, Anti-Static Vinyl Desk Pads 12x18,Desk Pad,MANU123,75,75,4.1674,6.5,18,12,0.03,0.45,DESK,2400,62,50
+FPDAnDes924V, Anti-Static Vinyl Desk Pads 19x24,Desk Pad,MANU123,39,42,5.3734,14,24,19,0.03,0.75,DESK,1200,62,50
+FPDAnDes71RA, Anti-Slip Desk Pad Cover 35x71,Desk Pad,MANU123,5,5,43.9654,2432,38,8,8,6,DESK,56,62,50
+FPRPreEnt36CH,Prestige Wiper/Scraper 24x36 Charcl,Entrance Mat,MANU123,0,0,19.5774,1813,37,7,7,7,MATS,50,62,50
+FPRPreEnt60CH,Prestige Wiper/Scaper 36x60 Charcl,Entrance Mat,MANU123,0,0,39.8114,1813,37,7,7,17,MATS,35,62,50
+FPRPreEnt72CH,Prestige Wiper/Scraper 48x72 Char.,Entrance Mat,MANU123,2,2,52.5441,11250,50,15,15,27,MATS,30,62,50
+M124Pol45ER,  46'x53' Rectangle,Polycarbonate Chair Mat,MANU123,2,2,129.1358,1372,56,49,0.5,23,MATS,50,62,48
+M124Pol25ER,  46'x60' Rectangle,Polycarbonate Chair Mat,MANU123,2,2,156.11,1550,0,0,0,25,MATS,50,62,50
+M124Pol95ER,  47'x35' Rectangle,Polycarbonate Chair Mat,MANU123,2,2,99.1466,925,50,37,0.5,9,MATS,50,62,48
+FCOCoAnt36BK, Comfort Mat 24x36 Black,Anti-Fatigue Mat,MANU456,1,1,21,936,26,6,6,5,MATS,0,0,0
+FICInAnt660B, Indust.Cushion 36x60 Black,Anti-Fatigue Mat,MANU456,0,0,96.5,1813,37,7,7,18,MATS,15,48,40
+FICInAnt60BY, Indust.Cushion 36x60 BK/YW,Anti-Fatigue Mat,MANU456,1,1,96.5,1813,37,7,7,18,MATS,15,48,40
+FLIPEnt436B,  PFPVC Scraper 24x36 Black,Entrance Mat,MANU456,0,0,18.415,936,26,6,6,14,MATS,20,48,40
+FLIPEnt648B,  PFPVC Scraper 36x48 Black,Entrance Mat,MANU456,2,2,49.6,1862,38,7,7,14.5,MATS,15,52,48
+FLIPEnt672B,  PFPVC Scraper 36x72 Black,Entrance Mat,MANU456,13,13,53.5608,2165.625,38.5,7.5,7.5,22.3,MATS,15,52,48
+FMTPrEnt432B, Premium Brush Mat 24x32 BK,Entrance Mat,MANU456,0,0,43.26,936,26,6,6,13,MATS,10,48,40
+FMTPrEnt239B, Premium Brush Mat 32x39 BK,Entrance Mat,MANU456,1,1,66.16,1813,37,7,7,20,MATS,10,48,40
+FMTPrEnt672B, Premium Brush Mat 36x72 BK,Entrance Mat,MANU456,1,1,108.19,1813,37,7,7,37,MATS,10,48,40
+FNEWiEnt36CH, Wipe & Scrape 24x36 Char.,Entrance Mat,MANU456,1,1,23.65,936,26,6,6,5,MATS,15,48,40
+FNEWiEnt60CH, Wipe & Scrape 36x60 Char.,Entrance Mat,MANU456,0,0,48.5,1911,37,7,7,11,MATS,15,48,40
+FNEWiEnt72CH, Wipe & Scrape 48x72 Char.,Entrance Mat,MANU456,1,1,82.76,3264,51,8,8,18,MATS,10,52,48

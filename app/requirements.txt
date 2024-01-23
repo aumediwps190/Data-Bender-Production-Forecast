@@ -1,0 +1,12 @@
+streamlit
+pandas==1.5.3
+seaborn
+matplotlib
+numpy
+scikit-learn==1.2.2
+plotly
+pickle
+matplotlib.pyplot
+PIL
+datetime
+dateutil.relativedelta
